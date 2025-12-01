@@ -18,9 +18,10 @@ My desire to be successful led to my passion for cybersecurity and I'm aiming to
 |-------------------------------------|--------------------------------------------------------------------|
 | WIRESHARK TRAFFIC ANALYSIS          | <a href="https://github.com/danieljjudoh/malicious-download-from-a-fake-software-site">MALICIOUS DOWNLOAD FROM A FAKE SOFTWARE SITE</a>|
 | NETWORK DESIGN                      | <a href="https://github.com/danieljjudoh/network-design-for-kafitech-solutions">CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>|
-| ROLE-BASED ACCESS CONTROL           | <a href=#>SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>            |
-| SIMULATED INCIDENT RESPONSE         | <a href=#>ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>      |
-
+| ROLE-BASED ACCESS CONTROL           | <a href="https://github.com/danieljjudoh/access-grid-cybershield-corp">SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>                   |
+| SIMULATED INCIDENT RESPONSE         | <a href="https://github.com/danieljjudoh/phishing-attack-at-eurotrans-logistics">ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>   |
+| WEB PENETRATION TESTING             | <a href="#">PORTSWIGGER LABORATORIES</a>   |
+| CAPTURE THE FLAG                    | <a href="#">HACKER101 CTF</a>   |
 ---
 
 ## Tools
@@ -61,5 +62,24 @@ I have strong knowledge and hands-on experience with various Open Source Intelli
 
 - <a href="https://github.com/danieljjudoh/malicious-download-from-a-fake-software-site">MALICIOUS DOWNLOAD FROM A FAKE SOFTWARE SITE</a>  
 - <a href="https://github.com/danieljjudoh/network-design-for-kafitech-solutions">CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>  
-- <a href=#>SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>
-- <a href=#>ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>
+- <a href="https://github.com/danieljjudoh/access-grid-cybershield-corp">SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>
+- <a href="https://github.com/danieljjudoh/phishing-attack-at-eurotrans-logistics">ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>
+
+---
+
+## Portswigger Laboratories Completed
+- SQL injection
+- Authentication
+- Path traversal
+- Command injection
+- Business logic vulnerabilities
+- API testing
+- Web cache deception
+
+---
+
+## Hacker101 CTF
+- A little something to get you started
+- Micro-CMS v1
+- Micro-CMS v2
+- Encrypted Pastebin
