@@ -53,7 +53,7 @@ I have strong knowledge and hands-on experience with various Open Source Intelli
 
 ## Certifications
 
-[![Digital For All Certificate](https://img.shields.io/badge/Digital%20For%20All-Certificate-success?style=for-the-badge&logo=lets-encrypt&logoColor=white)](#)  
+[![Digital For All Certificate](https://img.shields.io/badge/Digital%20For%20All-Certificate-success?style=for-the-badge&logo=lets-encrypt&logoColor=white)](https://github.com/danieljjudoh/certifications/blob/main/DFA%20Cybersecurity_TECH4DEV_to_daniel-john.jpg) 
 [![3MTT Certificate](https://img.shields.io/badge/3MTT-Certificate-success?style=for-the-badge&logo=google-classroom&logoColor=white)](#)  
 
 ---
