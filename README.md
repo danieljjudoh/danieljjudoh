@@ -1,6 +1,6 @@
 # Hello, I'm Daniel John
 <a href="https://linkedin.com/in/danieljjudoh">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 I am Cybersecurity Analyst and Web Penetration Tester, with good knowledge and expertise Linux Operating System, Networking tools and dynamic application security testing (DAST) tools. I am dedicated to solving complex problems and ready to engage in various transformative programs.
