@@ -1,53 +1,58 @@
 # Hello, I'm Daniel John
-<a href="https://linkedin.com/in/danieljjudoh">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-I am Cybersecurity Analyst and Web Penetration Tester, with good knowledge and expertise Linux Operating System, Networking tools and dynamic application security testing (DAST) tools. I am dedicated to solving complex problems and ready to engage in various transformative programs.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljjudoh)
+
+I am a Cybersecurity Analyst and Web Penetration Tester, with good knowledge and expertise in Linux Operating System, Networking tools, and dynamic application security testing (DAST) tools. I am dedicated to solving complex problems and ready to engage in various transformative programs.
+
+---
 
 ## Objective
 
-My desire to be successful led to my passion for cybersecurity and I'm aiming to secure a position as a Tier 1 Analyst within a Security Operations Center, leveraging my developing skills in web security, web development, penetration testing, network security and malware analysis.
+My desire to be successful led to my passion for cybersecurity and I'm aiming to secure a position as a Tier 1 Analyst within a Security Operations Center, leveraging my developing skills in web security, web development, penetration testing, network security, and malware analysis.
+
+---
 
 ## Skills
 
-|  skill                                                    |  Associated Project                  |
-|-----------------------------------------------------------|--------------------------------------|
-|  Network Traffic Monitoring and Attack Detection          |  putDetectionLabHere                 |
-|  SIEM Implementation and Log Analysis                     |  putDetectionLabHere                 |
+| Skill                                                    | Associated Project                  |
+|----------------------------------------------------------|------------------------------------|
+| Network Traffic Monitoring and Attack Detection         | putDetectionLabHere                |
+| SIEM Implementation and Log Analysis                    | putDetectionLabHere                |
+
+---
 
 ## Tools
 
 ### Network
-<div>
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
+[![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white)] 
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=for-the-badge&logo=cisco&logoColor=white)]
 
 ### Endpoint
-360 Antivirus Software  
-BitLocker
+-360 Antivirus Software  
+-BitLocker  
 
 ### Vulnerability Management & Penetration Testing
-Burp Suite  
-OWASP ZAP  
-Nessus  
-Nmap  
-SQLMap  
-Postman
+-Burp Suite  
+-OWASP ZAP  
+-Nessus  
+-Nmap  
+-SQLMap  
+-Postman  
 
 ### Data Security
-CyberChef
+-CyberChef  
+
+---
 
 ## Certifications
 
-<div>
-  <img src="https://img.shields.io/badge/Digital%20For%20All-Certificate-success?style=for-the-badge&logo=lets-encrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/3MTT-Certificate-success?style=for-the-badge&logo=google-classroom&logoColor=white" />
-</div>
+[![Digital For All Certificate](https://img.shields.io/badge/Digital%20For%20All-Certificate-success?style=for-the-badge&logo=lets-encrypt&logoColor=white)](#)  
+[![3MTT Certificate](https://img.shields.io/badge/3MTT-Certificate-success?style=for-the-badge&logo=google-classroom&logoColor=white)](#)  
+
+---
 
 ## Projects
 
-- Detection Lab
-- Test
+- Detection Lab  
+- Test  
 - Padding Oracle Attack
