@@ -24,23 +24,24 @@ My desire to be successful led to my passion for cybersecurity and I'm aiming to
 ## Tools
 
 ### Network
-[![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white)] 
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=for-the-badge&logo=cisco&logoColor=white)]
+[![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=for-the-badge&logo=cisco&logoColor=white)](#)
 
 ### Endpoint
--360 Antivirus Software  
--BitLocker  
+- 360 Antivirus Software  
+- BitLocker  
 
 ### Vulnerability Management & Penetration Testing
--Burp Suite  
--OWASP ZAP  
--Nessus  
--Nmap  
--SQLMap  
--Postman  
+- Burp Suite  
+- OWASP ZAP  
+- Nessus  
+- Nmap  
+- SQLMap  
+- Postman  
 
 ### Data Security
--CyberChef  
+- CyberChef  
 
 ---
 
