@@ -17,7 +17,7 @@ My desire to be successful led to my passion for cybersecurity and I'm aiming to
 | Skill                               | Associated Project                                                 |
 |-------------------------------------|--------------------------------------------------------------------|
 | WIRESHARK TRAFFIC ANALYSIS          | <a href="https://github.com/danieljjudoh/malicious-download-from-a-fake-software-site">MALICIOUS DOWNLOAD FROM A FAKE SOFTWARE SITE</a>|
-| NETWORK DESIGN                      | <a href=#>CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>  |
+| NETWORK DESIGN                      | <a href="https://github.com/danieljjudoh/network-design-for-kafitech-solutions">CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>|
 | ROLE-BASED ACCESS CONTROL           | <a href=#>SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>            |
 | SIMULATED INCIDENT RESPONSE         | <a href=#>ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>      |
 
@@ -60,6 +60,6 @@ I have strong knowledge and hands-on experience with various Open Source Intelli
 ## Projects
 
 - <a href="https://github.com/danieljjudoh/malicious-download-from-a-fake-software-site">MALICIOUS DOWNLOAD FROM A FAKE SOFTWARE SITE</a>  
-- <a href=#>CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>  
+- <a href="https://github.com/danieljjudoh/network-design-for-kafitech-solutions">CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>  
 - <a href=#>SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>
 - <a href=#>ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>
