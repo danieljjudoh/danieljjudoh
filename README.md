@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljjudoh)
 
-I am a Cybersecurity Analyst and Web Penetration Tester, with good knowledge and expertise in Linux Operating System, Networking tools, and dynamic application security testing (DAST) tools. I am dedicated to solving complex problems and ready to engage in various transformative programs.
+I am a Cybersecurity Analyst and Web Penetration Tester, with good knowledge and expertise in Linux Operating System, Networking tools, dynamic application security testing (DAST) tools and various OSINT tools. I am dedicated to solving complex problems and ready to engage in various transformative programs.
 
 ---
 
@@ -14,14 +14,19 @@ My desire to be successful led to my passion for cybersecurity and I'm aiming to
 
 ## Skills
 
-| Skill                                                    | Associated Project                  |
-|----------------------------------------------------------|------------------------------------|
-| Network Traffic Monitoring and Attack Detection         | putDetectionLabHere                |
-| SIEM Implementation and Log Analysis                    | putDetectionLabHere                |
+| Skill                               | Associated Project                                                 |
+|-------------------------------------|--------------------------------------------------------------------|
+| WIRESHARK TRAFFIC ANALYSIS          | <a href=#>MALICIOUS DOWNLOAD FROM A FAKE SOFTWARE SITE</a>         |
+| NETWORK DESIGN                      | <a href=#>CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>  |
+| ROLE-BASED ACCESS CONTROL           | <a href=#>SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>            |
+| SIMULATED INCIDENT RESPONSE         | <a href=#>ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>      |
 
 ---
 
 ## Tools
+
+### OSINT FRAMEWORK
+I have strong knowledge and hands-on experience with various Open Source Intelligence (OSINT) tools. From information gathering to reconnaissance analysis, I have continuously expanded my skills through practical labs such as PortSwigger Web Security Academy and by participating in Capture the Flag (CTF) challenges hosted by Hacker101.
 
 ### Network
 [![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white)](#)
@@ -54,6 +59,7 @@ My desire to be successful led to my passion for cybersecurity and I'm aiming to
 
 ## Projects
 
-- Detection Lab  
-- Test  
-- Padding Oracle Attack
+- <a href=#>MALICIOUS DOWNLOAD FROM A FAKE SOFTWARE SITE</a>  
+- <a href=#>CYBERSECURITY NETWORK DESIGN FOR KAFITECH SOLUTIONS</a>  
+- <a href=#>SECURING THE ACCESS GRID-CYBERSHIELD CORP</a>
+- <a href=#>ADVANCED PHISHING ATTACK AT EUROTRANS LOGISTICS</a>
