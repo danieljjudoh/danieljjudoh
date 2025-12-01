@@ -43,7 +43,10 @@ I have strong knowledge and hands-on experience with various Open Source Intelli
 - OWASP ZAP  
 - Nessus  
 - Nmap  
-- SQLMap  
+- SQLMap
+- Metasploit
+- Sublister
+- Gobuster
 - Postman  
 
 ### Data Security
