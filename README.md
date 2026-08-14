@@ -56,9 +56,9 @@ I have strong knowledge and hands-on experience with various Open Source Intelli
 
 ## Certifications
 
-[![Google IT Support](https://shields.io)](URL_TO_YOUR_IT_SUPPORT_CERTIFICATE)
+[![Google IT Support](https://shields.io)]([URL_TO_YOUR_IT_SUPPORT_CERTIFICATE](https://github.com/danieljjudoh/certifications/blob/main/My-IT-Support-Certificate.pdf))<img src="https://github.com/danieljjudoh/certifications/blob/main/My-IT-Support-Certificate.pdf">
 
-[![Google Cybersecurity](https://shields.io)](https://github.com/danieljjudoh/certifications/blob/main/Coursera%2078K5VBCZHIZY%20(1)%20(1).pdf)
+[![Google Cybersecurity](https://shields.io)](https://github.com/danieljjudoh/certifications/blob/main/Coursera%2078K5VBCZHIZY%20(1)%20(1).pdf)<img src="https://github.com/danieljjudoh/certifications/blob/main/Coursera%2078K5VBCZHIZY%20(1)%20(1).pdf">
 
 [![3MTT Certificate](https://img.shields.io/badge/3MTT-Certificate-success?style=for-the-badge&logo=google-classroom&logoColor=white)](https://github.com/danieljjudoh/certifications/blob/main/CERTIFICATE_3MTT.jpg)  
 <img src="https://github.com/danieljjudoh/certifications/blob/main/CERTIFICATE_3MTT.jpg">
